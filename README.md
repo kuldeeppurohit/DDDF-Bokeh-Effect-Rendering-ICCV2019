@@ -3,7 +3,8 @@ Code for the paper "[Depth-guided dense dynamic filtering network for bokeh effe
 
 ### Runner-Up Award Winner in AIM 2019 Bokeh Effect Challenge
 Certificate: https://data.vision.ee.ethz.ch/cvl/aim19/AIM2019_award_certificates.pdf
-Challenge Report: [IEEE Link](https://ieeexplore.ieee.org/abstract/document/9022578) ; [PDF](http://people.ee.ethz.ch/~timofter/publications/Ignatov-ICCVW-2019b.pdf)
+
+Challenge Report: [IEEE Paper Link](https://ieeexplore.ieee.org/abstract/document/9022578) , [PDF](http://people.ee.ethz.ch/~timofter/publications/Ignatov-ICCVW-2019b.pdf)
 
 <h3>PreTrained Model</h3>
 
