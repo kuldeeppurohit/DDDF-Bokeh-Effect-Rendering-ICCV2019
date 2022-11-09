@@ -22,11 +22,8 @@ python inference.py --rgb_folder=../Set14/LR
 4) GO TO CODE DIRECTORY: 'src' and  RUN THE COMMAND:  
 python main.py --data_test MyImage --model sm_space2depth_densedecoder_instancenorm_seg_depth_beginning_dynamic_filter_separatedecoder --scale 1 --pre_train ./trained_model/model_latest.pt --test_only --save_results --save 'upload' --testpath ../ --testset Set14
 
-THIS WILL GENERATE THE Output IMAGES IN FOLDER: SR/BI/upload/results
+THIS WILL GENERATE THE FINAL RESULTS IN FOLDER: SR/BI/upload/results
 
-4) RENAME THE IMAGES BY RUNNING THE MATLAB SCRIPT: renam.m
-
-FNAL RESULTS WILL BE SAVED IN DIRECTORY WITH THE NAME "FINAL_RESULTS"
  
 
 
