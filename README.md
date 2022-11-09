@@ -28,8 +28,10 @@ python main.py --data_test MyImage --model sm_space2depth_densedecoder_instancen
 
 This will generate the final results in the folder: SR/BI/upload/results
 
-Depth Estimation part adopted from [here](https://github.com/yjin1588/megadepth-pytorch)
-Saliency Detection part adopted from [here](https://github.com/Joker316701882/Salient-Object-Detection/blob/master/README.md)
+<h4>Credits</h4>
+
+1. Depth Estimation part adopted from [here](https://github.com/yjin1588/megadepth-pytorch)
+2. Saliency Detection part adopted from [here](https://github.com/Joker316701882/Salient-Object-Detection/blob/master/README.md)
 
 ## Citation
 
