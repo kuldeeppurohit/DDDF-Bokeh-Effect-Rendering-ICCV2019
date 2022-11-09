@@ -32,8 +32,6 @@ sample:
 python inference.py --rgb=animal1.jpg
 ```
 
-<h3>Sample</h3>
 
-![Sample](samples/1.png)
 
 more detail please read source code.
