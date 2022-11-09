@@ -1,8 +1,8 @@
-## DDDF-Bokeh-Effect-Rendering-ICCV2019
+# DDDF-Bokeh-Effect-Rendering-ICCV2019
 Code for the paper "Depth-guided dense dynamic filtering network for bokeh effect rendering", ICCV Workshop 2019
 https://ieeexplore.ieee.org/abstract/document/9022538
 
-# Runner-Up Award Winner in AIM 2019 Bokeh Effect Challenge
+### Runner-Up Award Winner in AIM 2019 Bokeh Effect Challenge
 https://competitions.codalab.org/competitions/20157
 
 
