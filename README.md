@@ -11,22 +11,22 @@ https://competitions.codalab.org/competitions/20157
 
 <h3>Usage</h3>
 
-1. PLACE THE INPUT IMAGES IN FOLDER NAMED: Set14/LR
+1. Place the input test images in the folder: Set14/LR
 
-2. GO TO THE DIRECTORY 'MegaDepth' and run this command (requires pytorch):
+2. Change the directory to 'MegaDepth' and run this command (requires pytorch):
 ```
 python demo_padding.py 
 ```
-3. GO TO THE DIRECTORY 'Salient_Object_Detection' and run this command (requires tensorflow):
+3. Change the directory to 'Salient_Object_Detection' and run this command (requires tensorflow):
 ```
 python inference.py --rgb_folder=../Set14/LR
 ```
-4. GO TO CODE DIRECTORY: 'src' and  RUN THE COMMAND:  
+4. Change the directory to 'src' and run the final inference command:  
 ```
 python main.py --data_test MyImage --model sm_space2depth_densedecoder_instancenorm_seg_depth_beginning_dynamic_filter_separatedecoder --scale 1 --pre_train ./trained_model/model_latest.pt --test_only --save_results --save 'upload' --testpath ../ --testset Set14
 ```
 
-THIS WILL GENERATE THE FINAL RESULTS IN FOLDER: SR/BI/upload/results
+This will generate the final results in the folder: SR/BI/upload/results
 
 
 
