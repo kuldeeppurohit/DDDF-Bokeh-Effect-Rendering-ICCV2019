@@ -8,7 +8,7 @@ Challenge Report: [IEEE Paper Link](https://ieeexplore.ieee.org/abstract/documen
 
 <h3>PreTrained Model</h3>
 
-[Google Drive Link](http://openaccess.thecvf.com/content_CVPR_2019/html/Purohit_Bringing_Alive_Blurred_Moments_CVPR_2019_paper.html)
+[Google Drive Link](https://drive.google.com/file/d/1AEkznOWZBvvMh9_TILh4uCn719fXh0e7/view?usp=sharing)
 
 
 <h3>Usage</h3>
