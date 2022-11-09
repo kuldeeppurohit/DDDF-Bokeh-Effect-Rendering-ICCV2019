@@ -6,7 +6,8 @@ https://ieeexplore.ieee.org/abstract/document/9022538
 https://competitions.codalab.org/competitions/20157
 
 <h3>PreTrained Model</h3>
-[Ggoogle Drive Link](http://openaccess.thecvf.com/content_CVPR_2019/html/Purohit_Bringing_Alive_Blurred_Moments_CVPR_2019_paper.html)
+
+[Google Drive Link](http://openaccess.thecvf.com/content_CVPR_2019/html/Purohit_Bringing_Alive_Blurred_Moments_CVPR_2019_paper.html)
 
 
 <h3>Usage</h3>
