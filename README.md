@@ -32,8 +32,8 @@ This will generate the final results in the folder: SR/BI/upload/results
 
 <h4>Credits</h4>
 
-1. Depth Estimation part adopted from [here](https://github.com/yjin1588/megadepth-pytorch)
-2. Saliency Detection part adopted from [here](https://github.com/Joker316701882/Salient-Object-Detection/blob/master/README.md)
+1. Depth Estimation module adopted from [here](https://github.com/yjin1588/megadepth-pytorch)
+2. Saliency Detection module adopted from [here](https://github.com/Joker316701882/Salient-Object-Detection/blob/master/README.md)
 
 ## Citation
 
