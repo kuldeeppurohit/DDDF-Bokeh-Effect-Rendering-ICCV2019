@@ -34,4 +34,4 @@ python inference.py --rgb=animal1.jpg
 
 
 
-more detail please read source code.
+For more detail please read source code.
